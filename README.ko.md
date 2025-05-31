@@ -1,5 +1,8 @@
 # 🧱 playwright-mutex
 
+[![npm](https://img.shields.io/npm/v/playwright-mutex.svg)](https://www.npmjs.com/package/playwright-mutex)
+[![downloads](https://img.shields.io/npm/dt/playwright-mutex.svg)](https://www.npmjs.com/package/playwright-mutex)
+
 > 🔒 Playwright 워커 간 공유 상태 충돌을 방지하는 뮤텍스 시스템
 
 **playwright-mutex**는 [Playwright](https://playwright.dev) E2E 테스트 환경에서  

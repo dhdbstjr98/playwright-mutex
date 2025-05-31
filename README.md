@@ -1,5 +1,8 @@
 # 🧱 playwright-mutex
 
+[![npm](https://img.shields.io/npm/v/playwright-mutex.svg)](https://www.npmjs.com/package/playwright-mutex)
+[![downloads](https://img.shields.io/npm/dt/playwright-mutex.svg)](https://www.npmjs.com/package/playwright-mutex)
+
 > 🔒 A mutex system to prevent shared-state conflicts between Playwright workers
 
 🌐 Available in other languages: [한국어 README](./README.ko.md)
